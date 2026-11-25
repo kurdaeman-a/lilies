@@ -1,0 +1,2 @@
+Hello! This is my first Git practice.
+Learning branches, commits and pull requests.
